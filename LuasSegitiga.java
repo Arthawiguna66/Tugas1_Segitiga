@@ -2,7 +2,7 @@ package com.mycompany.luassegitiga;
 
 /**
  *
- * @author ariputraaa
+ * @author ArtgaWiguna-2201010424
  */
 import java.util.Scanner;
 
